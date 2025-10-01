@@ -34,7 +34,7 @@ export default function Screen2({ onNext }) {
                     transition={{ duration: 0.8 }}
                     className="text-2xl md:text-3xl font-bold text-white leading-tight"
                 >
-                    Waise Aaki...sach kahu to tere saath baate karke tujhe chhed ke sukoon milta hai, ha bhale hi tu kali moti murgi nahi hai fir bhi...tu hai to special na...at least mere liye☺
+                    Waise Aaki...sach kahu to tere saath baate karke tujhe chhed ke sukoon milta hai, ha bhale hi tu kali moti murgi nahi hai fir bhi...tu hai to special na...at least mere liye😉🤗
                 </motion.h1>
             </motion.div>
 
@@ -55,6 +55,7 @@ export default function Screen2({ onNext }) {
         </motion.div>
     )
 }
+
 
 
 
