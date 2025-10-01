@@ -18,7 +18,7 @@ export default function Screen2({ onNext }) {
                 transition={{ duration: 1, delay: 0.3 }}
                 className="flex items-center justify-center"
             >
-                <img src="/gifs/couple love GIF (1).gif" className="w-40" alt="blushing" />
+                <img src="/gifs/2.gif" className="w-40" alt="blushing" />
             </motion.div>
 
             {/* Center text */}
@@ -32,7 +32,7 @@ export default function Screen2({ onNext }) {
                     initial={{ opacity: 0, y: 30 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8 }}
-                    className="text-4xl md:text-5xl font-bold text-white leading-tight"
+                    className="text-2xl md:text-3xl font-bold text-white leading-tight"
                 >
                     Waise Aaki...sach kahu to tere saath baate karke tujhe chhed ke sukoon milta hai, ha bhale hi tu kali moti murgi nahi hai fir bhi...tu hai to special na...at least mere liye☺
                 </motion.h1>
@@ -55,5 +55,6 @@ export default function Screen2({ onNext }) {
         </motion.div>
     )
 }
+
 
 
