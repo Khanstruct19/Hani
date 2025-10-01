@@ -148,12 +148,14 @@ export default function LyricsScreen() {
                         animate={{ opacity: 1, y: 0, scale: 1 }}
                         transition={{ delay: 1, duration: 1, ease: "easeInOut" }}
                         className="text-3xl md:text-4xl font-semibold px-4 text-center">
-                        For My moti murgi who does KUDUKUU all the time❤️
+                        For My moti murgi who does KUDUKUU all the time❤
+                        ️LYSM...Gheli🌹
                     </motion.h2>
                 </motion.div>
             )}
         </motion.div>
     )
 }
+
 
 
