@@ -31,10 +31,10 @@ export default function Home() {
         animate={{ x: 0, opacity: 1 }}
         transition={{
           duration: 1,
-          delay: 1,
+          delay: 1
         }}
         className="fixed bottom-4 right-4 text-sm text-white/40 pointer-events-none z-50">
-        @anujbuilds
+        @UᴍOЯαtH
       </motion.div>
     </div>
   )
