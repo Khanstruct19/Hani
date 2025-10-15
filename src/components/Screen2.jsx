@@ -49,12 +49,13 @@ export default function Screen2({ onNext }) {
                     onClick={onNext}
                     className="bg-gradient-to-r from-red-500 to-pink-600 hover:from-red-600 hover:to-pink-700 text-white font-semibold py-4 px-12 rounded-full text-xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl hover:shadow-red-500/30"
                 >
-                  To Gheli ji...ise daba ke dekh lijiye aap asal me kya hai💕
+                  To Gheli...ise daba ke dekh le ki tu asal me kya hai💕
                 </button>
             </motion.div>
         </motion.div>
     )
 }
+
 
 
 
