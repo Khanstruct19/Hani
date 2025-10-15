@@ -28,8 +28,8 @@ export default function Screen1({ onNext }) {
                 transition={{ duration: 1, delay: 1 }}
                 className="text-center space-y-4 flex flex-col justify-center"
             >
-                <h1 className="text-4xl md:text-5xl font-bold text-white leading-tight">Maaf karde meri maa🙏...</h1>
-                <p className="text-2xl md:text-3xl text-purple-200 font-light">tujhe Moti Kali Kalauti Bhais jaisi murgi nahi bolna chahiye tha😔</p>
+                <h1 className="text-4xl md:text-5xl font-bold text-white leading-tight">Assalamualaikum Mohtarma!!!</h1>
+                <p className="text-2xl md:text-3xl text-purple-200 font-light">Janta hu tujhe kisi ne gift nahi diya hoga par...mere hote hue tension kyu leit hai beta😌</p>
             </motion.div>
 
             {/* Bottom button */}
@@ -43,10 +43,11 @@ export default function Screen1({ onNext }) {
                     onClick={onNext}
                     className="bg-gradient-to-r from-pink-500 to-purple-600 hover:from-pink-600 hover:to-purple-700 text-white font-semibold py-4 px-12 rounded-full text-xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl hover:shadow-pink-500/30"
                 >
-                    isko daba ke gussa nikaal le...aur aage chal👉
+                   Chal fir isko daba de tera gift dekhne ke liye Hani💘....
                 </button>
             </motion.div>
         </motion.div>
     )
 }
+
 
