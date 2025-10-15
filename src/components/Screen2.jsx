@@ -34,7 +34,7 @@ export default function Screen2({ onNext }) {
                     transition={{ duration: 0.8 }}
                     className="text-2xl md:text-3xl font-bold text-white leading-tight"
                 >
-                    Waise Aaki...sach kahu to tere saath baate karke tujhe chhed ke sukoon milta hai, ha bhale hi tu kali moti murgi nahi hai fir bhi...tu hai to special na...at least mere liye😉🤗
+                   Mana tujhe kisine gift nahi diya hoga Mottii lekin...tujhe zarurat hi nahi...tu khud kisi tohfe se kam nahi hai Hani! jiski bhi zindagi me jaati hai khushiya bhar deti hai...The best gorgeous moti i ever met!
                 </motion.h1>
             </motion.div>
 
@@ -49,12 +49,13 @@ export default function Screen2({ onNext }) {
                     onClick={onNext}
                     className="bg-gradient-to-r from-red-500 to-pink-600 hover:from-red-600 hover:to-pink-700 text-white font-semibold py-4 px-12 rounded-full text-xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl hover:shadow-red-500/30"
                 >
-                    So go on than..daba de ise aur jaan le tu kya hai...💖
+                  To Gheli ji...ise daba ke dekh lijiye aap asal me kya hai💕
                 </button>
             </motion.div>
         </motion.div>
     )
 }
+
 
 
 
